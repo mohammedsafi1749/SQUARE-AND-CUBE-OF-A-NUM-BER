@@ -1,7 +1,5 @@
-# SQUARE AND CUBE OF A NUMBER
+# Square / cube of 8 bit data using 8051 KEIL.
 # 8051 Square  Program
-## NAME: MOHAMMED SAFI F
-## REG NO: 212224060156
 
 ## AIM
 To write and execute an Assembly language program for finding the square of a given data using 8051 microcontroller in Keil software.
