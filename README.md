@@ -26,6 +26,10 @@ MOV @R0,A
 END
 ```
 
+## CALCULATION
+
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/676d950e-4c2e-4fb7-95f7-73b2d1a2a22f" />
+
 ## OUTPUT
 
 <img width="1918" height="1198" alt="image" src="https://github.com/user-attachments/assets/21f106f3-05e5-4749-b00f-d3a74d696772" />
@@ -61,6 +65,9 @@ MOV P2, A
 END
 ```
 
+## CALCULATION
+
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/11328556-f691-4810-9fa3-55878084eaee" />
 
 ## OUTPUT
 
